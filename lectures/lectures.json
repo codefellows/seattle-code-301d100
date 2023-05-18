@@ -1,0 +1,101 @@
+{
+  "course-code": "seattle-code-301d93",
+  "lectures": {
+    "module-01": {
+      "class-01": {
+        "title": "React and Component Based Architecture",
+        "link": "https://zoom.us/rec/share/4oKvTbymK0stcLronaW9fkI59RX7KQjf972CXUUQW0oPkxsIrp0fLOo9j9jWmHfZ.F3i3totMyqrhIjtJ?startTime=1678723232000",
+        "date": "1678723232000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-02": {
+        "title": "Props and State",
+        "link": "https://zoom.us/rec/share/Nber9pHYH0nadkyVt7ZEo--yVUTVZz8w7cAnWnNIDlJVypWTH-1HRIm7hqvSPQsU.SYTgbSaNx8BFL1g3?startTime=1678809603000",
+        "date": "1678809603000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-03": {
+        "title": "Passing Functions as Props",
+        "link": "https://zoom.us/rec/share/7fyNy4gBZBdl71o0Yb0m7lduWX8rFSvWlphLAnyCkuIi5uESqbg_5zNZaLjN5Xi1.N8PV7BEYVawcypM_?startTime=1678896047000",
+        "date": "1678896047000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-04": {
+        "title": "React and Forms",
+        "link": "https://zoom.us/rec/share/8IiOP8Y1FKtlYM6B3mUrihr1gd6rkpKrfAujlYOHgxl5OkZZqqoXlBU8yPKd4sHi.DvCL1EmUIhqiSTK2?startTime=1678982428000",
+        "date": "1678982428000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-05": {
+        "title": "Putting it all together",
+        "link": "https://zoom.us/rec/share/QcNVYZWwlR1CaQ4_2C32kYFEC3vPVhAn5C6AtWWMnk_9uDapqrGpK4Y6XA_JW5Ay.3wIGhghqBCTiKVN3?startTime=1679068800",
+        "date": "1679068800",
+        "instructor": "Audrey Patterson"
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "title": "Asynchronous Code and Third Party APIs",
+        "link": "https://zoom.us/rec/share/Tn43TZgu8XS16aWqTRxeXAOG3gX71u0MYkg2p-BAdbEg-E0dgc_eQCOZKO1z943k.-WXG_51sYgNsoov5?startTime=1679328012000",
+        "timestamp": "1679328012000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-07": {
+        "title": "Express Servers",
+        "link": "https://zoom.us/rec/share/ofMKYKRVkCdTDJ4n78dqJe8aBhUVLdHvTAsEItpRLLrjDRf1yd53zoAUmJohNOPo.ZnlHjlJOTJLI-Dd-?startTime=1679414400",
+        "timestamp": "1679414400",
+        "instructor": "Audrey Patterson"
+      },
+      "class-08": {
+        "title": "APIs",
+        "link": "https://zoom.us/rec/share/25wmInA8GRkcBZ4qwtw8kZvCNJAESnLdeshhEjA7GNcTUv9rCodK9GadYnWEVMNa.MXCRUJ3zX0X8LFkh?startTime=1679500844000",
+        "timestamp": "1679500844000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-09": {
+        "title": "Advanced Topics",
+        "link": "https://zoom.us/rec/share/tGNoI2Bgqs8-wDvwOlFnC9fkzEdVEnLsWq0P7g2BRn-xSB3Txfg5dIkVWjB8MDad.c0eabF1Ypbqxf-ql?startTime=1679587244000",
+        "timestamp": "1679587244000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-10": {
+        "title": "Persistence",
+        "link": "https://zoom.us/rec/share/0Hl5Y67vu0duNMmcFB6Zn956ZTnYfhhTy0jgFfNyHXRQkm0ePWqPpbHbzrWsMw1X.KgSgGJ0akl0g1mFq?startTime=1679673622000",
+        "timestamp": "1679673622000",
+        "instructor": "Audrey Patterson"
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "title": "MongoDB, Mongoose, and Data Modeling",
+        "link": "https://zoom.us/rec/share/3czV0s_hqPmWj_Mp2qB5281wrfaTg5EWufh1fnBLinY4AZmRUTF7pB48hmtQkjXH.x8Ow0Qpve66ZQVfc?startTime=1679932867000",
+        "timestamp": "1679932867000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-12": {
+        "title": "Creating and Deleting Resources",
+        "link": "https://zoom.us/rec/share/ql90EhN0M-aLnEjmqyVMJtqQpcy3qi6f2L-n6OMpko3mxp-hWtPQkZ4dYThUQkff.zt1A0w2zceFu7LdO?startTime=1680019227000",
+        "timestamp": "1680019227000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-13": {
+        "title": "Updating Resources",
+        "link": "https://zoom.us/rec/share/cdNOWa5oOkGZ9j6wrU2vOYuWewjn_oNu_hwalhkewtTkUi6Cz03GhlBAFWI8sVza.EzTFQ71QtiWG9xEg?startTime=1680105657000",
+        "timestamp": "1680105657000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-14": {
+        "title": "DEI and 301 Final Exam",
+        "link": "https://zoom.us/rec/share/sirLg4lQZckzwhDbO5YTIP6WnSOgITaU15FnyUMQNqIvgQXKyAMqRXSnHM00d3WK.kdosp6JLiWaPpB7R?startTime=1680192060000",
+        "timestamp": "1680192060000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-15": {
+        "title": "Final Project Kickoff",
+        "link": "https://zoom.us/rec/share/DWUfiV_YbNBRZ0SQ6enjBDgSIEgCJQWbBo7e2H0QRANslBG9kKuuQiBK90FItz4.TuAdyc_T8buTUHL4?startTime=1680278404000",
+        "timestamp": "1680278404000",
+        "instructor": "Audrey Patterson"
+      }
+    }
+  }
+}
