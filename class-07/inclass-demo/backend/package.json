@@ -1,0 +1,24 @@
+{
+  "name": "301d100-first-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpatterson31/301d100-first-server.git"
+  },
+  "author": "audrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpatterson31/301d100-first-server/issues"
+  },
+  "homepage": "https://github.com/arpatterson31/301d100-first-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2"
+  }
+}
